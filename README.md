@@ -38,6 +38,8 @@ The best way to get the fundamentals under your fingers is to build *many small 
 
 - Do the [30 Days of Javascript challenge](https://javascript30.com/). Save all your projects to a git repo on your Github!
 
+> Remember, when you get stuck *Google the error*.
+
 ## Step 3: Get Ready for Modern JS Apps:
 Watch the FreeCodeCamp videos: The DOM, Javascript Lingo, Chrome Developer Tools
 
@@ -85,6 +87,8 @@ Don't be fussy about making these apps beautiful or elaborate. The point is to s
 
 Remember, this is about *repetition*, not perfection. Keep building and, as you repeat the core patterns of Javascript and React, you will master them.
 
+> Remember, when you get stuck *Google the error*.
+
 ## Step 6: React with Redux
 As your React application becomes more complex, it gets harder to manage the state and data flow in your components. Redux puts your app's state in one place and makes it incredibly easy to make sure your components react to changes correctly!
 
@@ -106,7 +110,7 @@ I recommend picking a [browser API](https://developer.mozilla.org/en-US/docs/Web
     - Maps
   - You may use [create-react-app](https://github.com/facebookincubator/create-react-app) to scaffold your app, or configure your own React project
 
-Remember: Focus on making your apps *modular*, with small, focused components that you can re-use throughout the layout.
+> Remember: Focus on making your apps *modular*, with small, focused components that you can re-use throughout the layout.
 
 ## Step 8: Congratulations
 Make a portfolio site to show off your work. You should make your site with... yep, you guessed it ... React!

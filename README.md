@@ -17,7 +17,10 @@ You will:
   - Learn how to write in a specialized way, like the first time you wrote a short story or essay: Following a tutorial to make a React app
   - Learn how to communicate on your own, without training wheels: Building apps from scratch
 
-<!-- TODO: Set up, Github account npm, node etc -->
+### Set up
+You'll need to:
+1. Set up [Github](https://help.github.com/articles/set-up-git/)
+2. Set up [Node/NPM](https://nodejs.org/en/)
 
 ## Step 1: Javascript Foundations
 - [FreeCodeCamp](www.freecodecamp.org)

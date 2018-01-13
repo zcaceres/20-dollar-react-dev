@@ -122,5 +122,5 @@ _____________
 > When I first learned to code, I spent way too much time trying to figure out the right path. It's easy to get distracted with 'what language should I learn'? Most people just need to get good enough to get hired as a junior developer so they can *continue their education on the job*.
 
 > 1. There are too many resources for learning online. Many are bad quality and a few are stellar. I included the absolute best resource for each step that I could find.
-2. Most resources do not focus on the [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) that's necessary to internalize the patterns from Javascript and React. This does.
-3. I believe the fastest way to go from no-experience to employed as a developer is to laser-focus on React. The demand for React devs is huge. Since this guide focuses entirely on the front-end, you can avoid the months of learning that it takes to understand tools like AWS, databasing, API design and servers etc. etc.
+> 2. Most resources do not focus on the [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) that's necessary to internalize the patterns from Javascript and React. This does.
+> 3. I believe the fastest way to go from no-experience to employed as a developer is to laser-focus on React. The demand for React devs is huge. Since this guide focuses entirely on the front-end, you can avoid the months of learning that it takes to understand tools like AWS, databasing, API design and servers etc. etc.

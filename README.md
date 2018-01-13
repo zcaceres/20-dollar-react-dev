@@ -92,7 +92,7 @@ You're ready to fly!
 
 Make 3-5 small apps using React, Redux, and any other browser APIs that you'd like to use.
 
-I recommend picking a browser API and idea that you can get excited about. This will keep you motivated as you work through each app.
+I recommend picking a [browser API](https://developer.mozilla.org/en-US/docs/Web/API) and idea that you can get excited about. This will keep you motivated as you work through each app.
   - Some possible browser APIs to explore in a React App from the 30 day challenge:
     - HTML5 Canvas
     - SVG
@@ -115,3 +115,12 @@ _____________
 
 #### What is Markdown?
 > Markdown is a markup language that makes writing HTML even simpler than it already is. For example, to make something a headline, you just put a # in front of it. It will automatically be rendered a headline.
+
+### Why did you write this?
+I originally wrote this for my girlfriend, who wanted to learn front-end development. Here's why:
+
+When I first learned to code, I spent way too much time trying to figure out the right path. It's easy to get distracted with 'what language should I learn'? Most people just need to get good enough to get hired as a junior developer so they can *continue their education on the job*.
+
+1. There are too many resources for learning online. Many are bad quality and a few are stellar. I included the absolute best resource for each step that I could find.
+2. Most resources do not focus on the [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) that's necessary to internalize the patterns from Javascript and React. This does.
+3. I believe the fastest way to go from no-experience to employed as a developer is to laser-focus on React. The demand for React devs is huge. Since this guide focuses entirely on the front-end, you can avoid the months of learning that it takes to understand tools like AWS, databasing, API design and servers etc. etc.

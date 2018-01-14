@@ -21,7 +21,7 @@ You will:
 You'll need to:
 1. Install a text editor (I recommend [Atom](https://atom.io/) or [VSCode](https://code.visualstudio.com/))
 2. Set up your [Github](https://help.github.com/articles/set-up-git/) account
-3. Set up [Node/NPM](https://nodejs.org/en/)
+3. Install Node/NPM using [Homebrew](https://wsvincent.com/install-node-js-npm-mac/)
 
 ## Step 1: Javascript Foundations
 - [FreeCodeCamp](www.freecodecamp.org)

@@ -1,11 +1,11 @@
 # No-Nonsense Learning Guide for React
 ## Become a Proficient React Dev for $20
 
-According to Stack Overflow, React is [the most loved technology](https://insights.stackoverflow.com/survey/2017) around today. There's also huge demand for React developers around the world.
+According to Stack Overflow, React is [the most loved technology](https://insights.stackoverflow.com/survey/2017) that developers use today. There's also huge demand for React developers around the world.
 
-This syllabus is meant to take you, the motivated learner, from little-to-no experience Javascript coder to a proficient React developer. By the end of this syllabus you will not be a master. But you will be good enough to build and, most importantly, to make real contributions to a front-end development team. If you work hard, you can continue your education *on the job* as a React dev.
+This syllabus is meant to take you, the motivated learner, from little-to-no experience Javascript coder to a proficient React developer. By the end of this syllabus you will not be a master. But you will be good enough to build apps and, most importantly, to make real contributions to a front-end development team. If you work hard, you can continue your education *on the job* as a React dev.
 
-The total cost of this course is: **$20**.
+Almost all of the materials used in this course are free. There is one paid course, which brings the total cost of learning to: **$20**.
 
 This guide approaches learning to program like learning a language, where knowledge grows through [chunking](https://www.coursera.org/learn/learning-how-to-learn/lecture/LurUJ/what-is-a-chunk). Chunking means you master small pieces until they're second nature. Then you can combine those pieces into more complex designs.
 
@@ -19,8 +19,9 @@ You will:
 
 ### Set up
 You'll need to:
-1. Set up [Github](https://help.github.com/articles/set-up-git/)
-2. Set up [Node/NPM](https://nodejs.org/en/)
+1. Install a text editor (I recommend [Atom](https://atom.io/) or [VSCode](https://code.visualstudio.com/))
+2. Set up your [Github](https://help.github.com/articles/set-up-git/) account
+3. Set up [Node/NPM](https://nodejs.org/en/)
 
 ## Step 1: Javascript Foundations
 - [FreeCodeCamp](www.freecodecamp.org)

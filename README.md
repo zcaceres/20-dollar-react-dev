@@ -24,7 +24,7 @@ You'll need to:
 3. Install Node/NPM using [Homebrew](https://wsvincent.com/install-node-js-npm-mac/)
 
 ## Step 1: Javascript Foundations
-- [FreeCodeCamp](www.freecodecamp.org)
+- [FreeCodeCamp](https://www.freecodecamp.org)
   - All HTML5 & CSS3
   - jQuery (Remember, jQuery is just a library made from Javascript!)
   - Basic Javascript (All)

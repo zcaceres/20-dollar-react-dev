@@ -3,7 +3,9 @@
 
 According to Stack Overflow, React is [the most loved technology](https://insights.stackoverflow.com/survey/2017) that developers use today. There's also huge demand for React developers around the world.
 
-This syllabus is meant to take you, the motivated learner, from little-to-no experience Javascript coder to a proficient React developer. By the end of this syllabus you will not be a master. But you will be good enough to build apps and, most importantly, to make real contributions to a front-end development team. If you work hard, you can continue your education *on the job* as a React dev.
+This syllabus is meant to take you, the motivated learner, from little-to-no experience Javascript coder to a proficient React developer.
+
+By the end of this syllabus you will not be a master. But you'll be good enough to build apps and, most importantly, to make real contributions to a front-end development team. If you work hard, you can continue your education *on the job* as a professional React dev.
 
 Almost all of the materials used in this course are free. There is one paid course, which brings the total cost of learning to: **$20**.
 
@@ -42,9 +44,9 @@ The best way to get the fundamentals under your fingers is to build *many small 
 > Remember, when you get stuck *Google the error*.
 
 ## Step 3: Get Ready for Modern JS Apps:
-Watch the FreeCodeCamp videos: The DOM, Javascript Lingo, Chrome Developer Tools
+Watch FreeCodeCamp sections: [The DOM](https://www.freecodecamp.org/videos/the-dom-whats-the-document-object-model), [Javascript Lingo](https://www.freecodecamp.org/videos/javascript-lingo-mdn-and-documentation), [Chrome Developer Tools](https://www.freecodecamp.org/videos/chrome-dev-tools-elements)
 
-> Developer Tools (also available in different forms in Safari and Firefox) are super important! You'll use them every day.
+> Developer Tools (also available in Safari and Firefox) are super important! You'll use them every day.
 
 Get Comfortable with ES6
   - Do [Count-To-6 Workshopper on Nodeschool](https://nodeschool.io/)
@@ -70,12 +72,12 @@ Read these topics from [Quickstart](https://reactjs.org/docs/introducing-jsx.htm
   - Composition vs Inheritance
   - Thinking In React
 
-You will not understand everything in these topics. That's OK! The point is just to expose your mind to some of the common concepts and words in React. Just move on after you've read these short articles.
+You will not understand everything. That's OK! The point is to expose your mind to some of the common concepts and phrases in React. Just move on after you've read these short articles.
 
 ## Step 5: React
 Do [React Fundamentals](https://tylermcginnis.com/courses/react-fundamentals/)
 
-It costs $20, but worth it.
+It costs $20, but is worth it.
 
 > Throughout this course, think about how React *organizes interfaces* as components that act like reusable LEGO blocks
 
@@ -117,7 +119,6 @@ I recommend picking a [browser API](https://developer.mozilla.org/en-US/docs/Web
 Make a portfolio site to show off your work. You should make your site with... yep, you guessed it ... React!
 
 Launch it on [Github Pages](https://pages.github.com/) for free!
-
 _____________
 ## Random Questions from People
 
